@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_ko",
+				"_koniec"
+			],
+			[
+				"_",
+				"_poczatek"
+			],
+			[
+				"wsk",
+				"_wsk"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"Dru",
+				"DrukujSrednia"
+			],
+			[
+				"d",
+				"delete"
+			],
+			[
+				"stos",
+				"stosik"
+			],
+			[
+				"ile",
+				"ile_algorytm"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"s",
+				"system_clock"
+			],
+			[
+				"Test",
+				"Testowa2"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"o",
+				"o"
+			],
+			[
+				"Pow",
+				"Powieksz2x"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"Po",
+				"Powieksz2x"
+			],
+			[
+				"Powie",
+				"Powieksz"
+			],
+			[
+				"P",
+				"Powieksz2x"
+			],
+			[
+				"st",
+				"system"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"po",
+				"Powieksz2x"
+			],
+			[
+				"poi",
+				"PowiekszO1"
+			],
+			[
+				"pow",
+				"Powieksz2x"
+			],
+			[
+				"init",
+				"Init"
+			],
+			[
+				"r",
+				"readfile\tRead File Into Vector"
+			],
+			[
+				"pi",
+				"print_rozmiar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"g++ main.cpp"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4"
+	],
+	"file_history":
+	[
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/cell.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/main.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/list.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/ilist.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/list.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/Makefile",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/stack.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/queue.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/queue.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/stack.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/istack.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/miernik.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/tablica.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/miernik.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/iwykonywalny.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/iqueue.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/itablica.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/tablica.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/stos.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3/prj/tablica.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB4/IWyonywalny.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3/prj/interfejs.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3/prj/tablica.cpp",
+		"/home/piotrek/Downloads/stosTAB (1).cpp",
+		"/home/piotrek/Downloads/stosTAB.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3_TEMPLATE/miernik.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3_TEMPLATE/miernik.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3_TEMPLATE/tablica.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3/prj/testowa.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/prj/main.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB3/prj/interfejs.cpp",
+		"/home/piotrek/Desktop/testy/interfejs/main.cpp",
+		"/home/piotrek/Desktop/testy/bigo/main.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/prj/tablica.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/prj/tablica.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/Makefile",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/test.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/tablica.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/tablica.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/main.cpp",
+		"/home/piotrek/Desktop/testy/test.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB2/przed.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB1/main.cpp",
+		"/home/piotrek/Desktop/IV semestr/Tablica_dynmiczna/main.cpp",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB1/tablica.hh",
+		"/home/piotrek/Desktop/IV semestr/PAMSI/LAB1/tablica.cpp",
+		"/home/piotrek/Desktop/IV semestr/Tablica_dynmiczna/dane",
+		"/home/piotrek/Desktop/IV semestr/Tablica_dynmiczna/Makefile",
+		"/home/piotrek/Desktop/IV semestr/salarenko/PAMSI-master/1_program/drugie_podejscie/timer.cpp",
+		"/home/piotrek/Desktop/IV semestr/salarenko/PAMSI-master/1_program/drugie_podejscie/timer.h",
+		"/home/piotrek/Desktop/IV semestr/salarenko/PAMSI-master/1_program/drugie_podejscie/tab_mng.h",
+		"/home/piotrek/Desktop/IV semestr/salarenko/PAMSI-master/1_program/drugie_podejscie/tab_mng.cpp",
+		"/home/piotrek/Desktop/IV semestr/salarenko/PAMSI-master/1_program/drugie_podejscie/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tail",
+			"head",
+			"next",
+			"data",
+			"node",
+			"rear",
+			"front",
+			"_rear",
+			"next",
+			";",
+			" = 0",
+			"virtual",
+			"()",
+			");",
+			"Stos",
+			"= 0",
+			"virtual",
+			"isntEmpt",
+			"Tablica::",
+			"TABLICA<typ>",
+			"float",
+			"TYP",
+			"int i ",
+			"struct",
+			"std::",
+			"NAZWA_PLIKU",
+			"dane"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.411649312467,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "lab4.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
