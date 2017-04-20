@@ -8,4 +8,4 @@ tablica.o: tablica.hh tablica.cpp
 		g++ -c -Wall -pedantic tablica.cpp
 
 miernik.o: miernik.hh miernik.cpp
-		g++ -c -Wall -pedantic miernik.cpp
+		g++ -c -Wall -pedantic miernik.cpp 
